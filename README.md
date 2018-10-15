@@ -80,7 +80,7 @@ tags:
 ### 侧边栏
 
 看右边:
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-side.png)
+![](https://asdw747.github.io/img/404-bg.jpg)
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
